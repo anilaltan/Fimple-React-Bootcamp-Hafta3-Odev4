@@ -2,6 +2,8 @@
 
 Fimple React Bootcamp 3.Haftanın 4.Ödevi
 
+![Screenshot](Screenshot_1.jpg)
+
 ---
 
 # Getting Started with Create React App
